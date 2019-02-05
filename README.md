@@ -2,9 +2,9 @@
 CSUF CPSC 362-Software Engineering Project
 
 Team members:
-	Alex Mulvaney
+	Alex Mulvaney,
 	Will Au
 
-Project Name:
+Project Name: Book Loaning Program
 
 Project Scope:
