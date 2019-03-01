@@ -5,7 +5,8 @@ Team members:
 	Alex Mulvaney,
 	Will Au,
 	Kirk Tu,
-
+	Ariosto Kuit,
+	
 Project Name: Book Loaning Program
 
 Project Scope:
