@@ -6,6 +6,7 @@ Team members:
 	Will Au,
 	Kirk Tu,
 	Ariosto Kuit,
+	Ah-Hyun Shin
 	
 Project Name: Book Loaning Program
 
