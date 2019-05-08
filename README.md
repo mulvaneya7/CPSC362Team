@@ -8,6 +8,6 @@ Team members:
 	Ariosto Kuit,
 	Ah-Hyun Shin
 	
-Project Name: Book Loaning Program
+Project Name: Billy's Burger Mania
 
-Project Scope:
+Projects webpage: https://cpsc362-burger-app.firebaseapp.com/
